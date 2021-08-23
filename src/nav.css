@@ -1,0 +1,30 @@
+
+#navbar {
+    width: 100%;
+padding-left: 40px;
+padding-top: 40px;
+transition: all .7s ease-in;
+}
+
+a{
+    text-decoration: none;
+    margin-right:40px;
+}
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
